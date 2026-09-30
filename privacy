@@ -1,55 +1,42 @@
-Privacy Policy for MedQ-AI
-
-Effective Date: November 14, 2024
-
-Introduction
-
-MedQ-AI ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the MedQ-AI mobile application (the "App"). Please read this policy carefully to understand our practices regarding your personal information.
-
-Information We Collect
-
-We collect the following personal information when you register or use the App:
-
-Name – used to identify you within the app and personalize your experience.
-Email Address – used for account verification, support, and communication purposes.
-Institution – used to better understand our user base and tailor the content experience in the App.
-How We Use Your Information
-
-We use the information we collect in the following ways:
-
-Account Creation and Management: To set up and maintain your account in the App.
-Personalization: To tailor content to fit your educational needs based on your affiliation.
-Communications: To send updates about the App, respond to inquiries, and provide support.
-Improvement and Analytics: To analyze how the App is used and to improve its functionality.
-Data Sharing and Disclosure
-
-We do not sell, rent, or share your personal information with third parties for marketing purposes. We may share your information only:
-
-With service providers who help us operate and improve the App, subject to confidentiality agreements.
-When required by law to comply with legal obligations or to protect the rights, property, or safety of MedQ-AI, our users, or others.
-Data Security
-
-We implement reasonable administrative, technical, and physical measures to safeguard your information from unauthorized access, loss, misuse, or alteration. However, no method of transmission over the internet or electronic storage is completely secure. We cannot guarantee absolute security.
-
-Data Retention
-
-We retain your personal information as long as your account is active or as necessary to fulfill the purposes described in this Privacy Policy. We may also retain certain information for legal, compliance, or internal business purposes.
-
-Your Rights
-
-You may access, update, or delete your personal information within the App's settings or by contacting us at [Insert Contact Information]. We will respond to your request within a reasonable timeframe.
-
-Children’s Privacy
-
-The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we learn that we have collected information from a child under 13 without verification of parental consent, we will delete that information as quickly as possible.
-
-Changes to This Privacy Policy
-
-We may update this Privacy Policy to reflect changes in our practices or applicable laws. We will notify you of any material changes by posting the new policy within the App or by other means as required by law.
-
-Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
+MedQ AI Privacy Policy
+Draft for review | Proposed effective date: September 30, 2026
+MedQ-AI Inc. ("MedQ-AI," "we," "our," or "us") operates the MedQ-AI mobile application. This policy explains the information we collect, how we use and share it, and how you can contact us about your information. The information processed depends on the app version and features you use.
+Information we collect
+Account information. We collect your name, email address, institution, and account identifiers to create and manage your account, personalize your experience, and provide support.
+Learning activity. We process quiz responses, scores, question attempts, completion dates, subject performance, knowledge profiles, and related study progress. This can include streaks, rewards, and references to articles or videos you save.
+Study material you submit. When you use an available import or analysis feature, we process the questions, answers, results, and other study material you choose to submit. Please do not submit patient-identifying information or material you are not authorized to share.
+Purchases and support. We process purchase or subscription status needed to provide access to paid features, and information you send when contacting us. Apple handles App Store payments; MedQ-AI does not receive your full payment-card details from Apple.
+Technical information. Our services and providers may process request and error logs, app and device information, network identifiers such as IP addresses, and other information needed to deliver, secure, and troubleshoot the App. Third-party video services are described below.
+How we use your information
+We use this information to maintain your account, save and restore study progress, calculate your knowledge profile, identify learning gaps, and recommend relevant questions, articles, and videos. We also use it to provide purchased features, respond to support requests, communicate app updates, understand usage, improve functionality, and prevent misuse.
+Recommendations may be generated automatically from your learning activity. For example, an incorrect quiz response can identify an educational topic used to find relevant reading or videos. These recommendations support education and do not establish a clinical diagnosis or replace professional judgment.
+ 
+Service providers and AI processing
+We use Google Firebase and Google Cloud services for functions such as account authentication, storage, and backend processing. Information needed to operate these functions is processed by those providers. Other providers receive information needed to deliver the features they support.
+Some study features use OpenAI to interpret question text or submitted study material and identify learning topics or categories. The relevant text and context may be sent to OpenAI for processing, and resulting topics or classifications may be stored with study records or used to retrieve educational content. Provider processing and retention depend on the service, its configuration, and the applicable terms.
+Educational search terms may be sent to content services such as YouTube or PubMed to retrieve videos or articles. If you open an external website, that website handles information under its own privacy policy.
+YouTube videos and Google privacy
+MedQ-AI uses YouTube API Services to find educational videos and retrieve public video information, such as video identifiers, titles, descriptions, thumbnails, channel information, publication dates, and duration. We use this information to select and display study recommendations and to support saved video references. MedQ-AI stores video references and associated metadata for these features.
+Videos are displayed through YouTube's embedded player. YouTube hosts and streams the videos, and its player may serve third-party content, including advertisements. Loading the embedded player or interacting with YouTube content may transmit information directly to Google or YouTube, including IP address, device or browser information, and playback interactions. Google or YouTube may store or access cookies or similar technologies on your device.
+Google's handling of information is described in its Privacy Policy. Use of YouTube features is also subject to YouTube's Terms of Service.
+Google Privacy Policy: https://policies.google.com/privacy
+YouTube Terms of Service: https://www.youtube.com/t/terms
+MedQ-AI's public-video discovery does not require permission to access your private YouTube account data, and we do not request or store your YouTube password. Google account sign-in, where available for MedQ-AI authentication, does not itself authorize access to private YouTube activity. You can manage information held by Google through your Google account controls.
+Google account privacy controls: https://myaccount.google.com/data-and-privacy
+ 
+Sharing and disclosure
+We do not sell or rent your personal information to marketers. We share information with service providers as needed to operate and improve the App, as described above. Google and YouTube may process information directly through their embedded content under their own policies.
+We may disclose information when required by law, to respond to lawful requests, or to protect the rights, safety, and security of MedQ-AI, our users, or others. We may also share information when you direct us to do so or provide consent.
+Retention and your choices
+We retain account information and learning records while your account is active or as needed to provide the App and fulfill the purposes described in this policy. Retention may also be necessary for legal obligations, security, dispute resolution, or other legitimate operational needs. Storage of information received from YouTube is subject to YouTube's applicable data storage and refresh requirements; video availability and metadata may change over time.
+To request access to, correction of, or deletion of your account or personal information, email OutOfTheStoneAge@gmail.com. You can also use relevant account controls where available in your app version. We may ask for information needed to verify your identity and will respond within applicable legal timeframes.
+A deletion request covers information held by MedQ-AI, subject to applicable retention requirements. Deleting the App from your device does not necessarily delete your account or records stored on our services. MedQ-AI cannot delete information that Google or another third party holds independently; use that provider's privacy controls for those requests.
+Data security
+We use reasonable administrative and technical safeguards to protect information against unauthorized access, loss, misuse, or alteration. No system or transmission method is completely secure, and we cannot guarantee absolute security.
+Children and policy changes
+The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we learn that such information has been collected without legally required parental consent, we will take steps to delete it.
+We may update this policy as our practices or legal requirements change. We will update its effective date and provide notice of material changes through the App or other appropriate means as required by law.
+Contact us
+MedQ-AI Inc.
 Email: OutOfTheStoneAge@gmail.com
-Mailing Address: 10013 Westwanda Dr, Beverly Hills, CA 90210
+Mailing address: 10013 Westwanda Dr, Beverly Hills, CA 90210
